@@ -1,0 +1,10 @@
+C:\Users\User\Downloads\School\kalkulator\kalkulator_decimal\bin\Debug\kalkulator_decimal.exe.config
+C:\Users\User\Downloads\School\kalkulator\kalkulator_decimal\bin\Debug\kalkulator_decimal.exe
+C:\Users\User\Downloads\School\kalkulator\kalkulator_decimal\bin\Debug\kalkulator_decimal.pdb
+C:\Users\User\Downloads\School\kalkulator\kalkulator_decimal\obj\Debug\kalkulator_desimal.csprojAssemblyReference.cache
+C:\Users\User\Downloads\School\kalkulator\kalkulator_decimal\obj\Debug\kalkulator_desimal.Form1.resources
+C:\Users\User\Downloads\School\kalkulator\kalkulator_decimal\obj\Debug\kalkulator_decimal.Properties.Resources.resources
+C:\Users\User\Downloads\School\kalkulator\kalkulator_decimal\obj\Debug\kalkulator_desimal.csproj.GenerateResource.cache
+C:\Users\User\Downloads\School\kalkulator\kalkulator_decimal\obj\Debug\kalkulator_desimal.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\School\kalkulator\kalkulator_decimal\obj\Debug\kalkulator_decimal.exe
+C:\Users\User\Downloads\School\kalkulator\kalkulator_decimal\obj\Debug\kalkulator_decimal.pdb
